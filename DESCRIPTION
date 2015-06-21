@@ -1,0 +1,12 @@
+Package: aaa
+Type: Package
+Title: aaaaa
+Version: 0.0-1
+Date: 2015-06-12
+Author: L W
+Maintainer: L W <gucaswanglin@126.com>
+Depends: R(>= 2.10.0)
+Description: adfdsfsdfsadfads.
+License: GPL
+Collate: 'a.R'
+Packaged: 2015-06-20 16:14:59 UTC; Administrator
